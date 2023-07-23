@@ -1,2 +1,2 @@
-My first readme
+ALX COURSE IS FUN
 
